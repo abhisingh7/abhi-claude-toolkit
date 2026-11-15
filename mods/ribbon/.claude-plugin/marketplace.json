@@ -1,0 +1,11 @@
+{
+  "name": "ribbon-local",
+  "owner": { "name": "local" },
+  "plugins": [
+    {
+      "name": "ribbon",
+      "source": "./",
+      "description": "ribbon with a Handoff button: usage left, prompt cache, and a one-click handoff prompt for a new chat."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mods",
+  "version": "0.3.0",
+  "description": "A Mods pane that finds every mod on this Mac by itself, turns each one on or off in every chat with one toggle",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "AB AI"
+  },
+  "license": "MIT"
+}
