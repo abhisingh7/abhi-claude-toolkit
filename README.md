@@ -58,4 +58,4 @@ abhi-claude-toolkit/
 
 ## License
 
-Each mod carries its own `LICENSE` file in its folder.
+[MIT](LICENSE). Each mod also carries its own `LICENSE` file in its folder, which applies to that mod (for example, `model-router` is derived from claude-code-templates' MIT-licensed Model Router).
